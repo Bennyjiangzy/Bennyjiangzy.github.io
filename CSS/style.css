@@ -1,0 +1,51 @@
+.header {
+    padding: 60px;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+h1.header{
+    text-align: center;
+}
+  .content {padding:20px;}
+  #about{
+      background: #041F30;
+      color:white
+  }
+  #course{
+      background: #485C68;
+  }
+  #school{
+    background-image: linear-gradient(red, yellow)
+  }
+  
+  footer{
+      display: block;
+  }
+  #xx{
+    text-align: center
+  }
+  #footer{
+      background-color: #C5F7E2;
+  }
+  #list{
+    list-style-type:square;
+  }
+  .major{
+      background-color: #5D9EB6;
+      padding: 10px
+
+  }
+  .heading{
+      color:#86B893
+  }
+  img{
+      margin: 20px;
+  }
+  body{
+    font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Libre Baskerville'), local('LibreBaskerville-Regular'), url(https://fonts.gstatic.com/s/librebaskerville/v7/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNXaxMICA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
